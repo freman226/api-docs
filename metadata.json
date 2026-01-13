@@ -1,0 +1,7 @@
+{
+  "name": "Nexus API Docs",
+  "description": "A high-performance, AI-enhanced API documentation platform featuring interactive endpoint testing, real-time code generation, and intelligent assistant integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
